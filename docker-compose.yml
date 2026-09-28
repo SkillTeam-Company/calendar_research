@@ -1,4 +1,5 @@
 # Use postgres/example user/password credentials
+name: cal.com
 
 volumes:
   database-data:
